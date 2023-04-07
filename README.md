@@ -1,7 +1,7 @@
 # NLPRecipeRecommender
 Recommend recipes using NLP techniques including word embeddings and NER.
 
-# Folder Structure
+## Folder Structure
 
 * NER
     * BERT
