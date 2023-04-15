@@ -1,0 +1,215 @@
+,Ingredient,Substitutes,semantic_substitutions,precision,recall,f1,accuracy,NL_precision,NL_recall,NL_F1
+0,a1 sauce,"['SAUCE', 'CONDIMENT']","['SAUCE', 'TOMATO']",0.0,0.0,0.0,0.0,0.5,0.5,0.5
+1,adobo sauce,['CONDIMENT'],['SAUCE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,alphonso olives,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+3,aluminum foil,"['WRAPPER', 'WRAPPER']","['WRAPPER', 'PROCESSED MEAT']",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+4,amphissa olives,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+5,anchovy paste,"['FISH', 'SEASONING', 'FERMENTED FOOD']","['FERMENTED FOOD', 'SEASONING', 'FISH']",0.333333333,0.333333333,0.333333333,0.333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+6,apple blossoms,"['GARNISH', 'GARNISH']","['GARNISH', 'GARNISH']",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7,apple butter,['FRUIT SAUCE'],['BUTTER'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,apple jelly,"['PROCESSED FRUIT', 'PROCESSED FRUIT', 'JUICE']","['PROCESSED FRUIT', 'FRUIT SAUCE', 'FRUIT']",0.333333333,0.333333333,0.333333333,0.333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+9,applesauce,"['SPREAD', 'STARCHY VEGETABLE', 'PROCESSED FRUIT']","['SEASONING', 'FRUIT', 'honeycrisp apples']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,apricot jam,"['PROCESSED FRUIT', 'PROCESSED FRUIT']","['FRUIT', 'FRUIT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,arauco olives,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+12,arbequina olives,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+13,asian barbecue sauce,"['korean SAUCE', 'SAUCE', 'SAUCE']","['korean SAUCE', 'SAUCE', 'SAUCE']",0.333333333,0.333333333,0.333333333,0.333333333,1.0,1.0,1.0
+14,atlanta olives,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+15,bamboo leaves,['WRAPPER'],['VEGETABLE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,banana catsup,['CONDIMENT'],['cr√®me de banane'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,banana leaves,"['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER']","['GARNISH', 'FRUIT', 'FRUIT squash', 'cr√®me de banane', 'FRUIT pepper']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,bean sauce,"['black SAUCE', 'SAUCE', 'SEASONING', 'brown GRAIN miso']","['sweet SAUCE', 'black SAUCE', 'SEASONING', 'chili bean']",0.25,0.25,0.25,0.25,0.25,0.25,0.25
+19,berbere sauce,"['SAUCE', 'SAUCE']","['SAUCE', 'SAUCE']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+20,black bean sauce,"['SAUCE', 'SEASONING']","['SAUCE', 'FRUIT']",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+21,black currant jelly,"['PROCESSED FRUIT', 'PROCESSED FRUIT']","['PROCESSED FRUIT', 'FRUIT']",0.0,0.0,0.0,0.0,0.5,0.5,0.5
+22,black olives,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+23,blueberry jam,"['PROCESSED FRUIT', 'PROCESSED FRUIT']","['FRUIT', 'FRUIT vinegar']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,borage,"['SEASONING', 'LEAFY VEGETABLE', 'GARNISH', 'SEASONING', 'SEASONING']","['SPREAD', 'bailibut', 'beluga lentil', 'framboise', 'taleggio']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,bread and butter pickles,['FERMENTED FOOD'],['FERMENTED FOOD'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+26,candied angelica,['CONFECTION'],['SEASONING'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,candied chestnuts,['SPREAD'],['SPREAD'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+28,candied fruit,['FRUIT'],['FRUIT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+29,candied ginger,['PROCESSED FRUIT'],['COOKIE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,caper berry,"['SEASONINGs', 'CONDIMENT']","['cape FRUIT', 'FRUIT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,capers,"['pickled GARNISH buds', 'CONDIMENT', 'VEGETABLE', 'FERMENTED FOOD', 'seabean']","['FISH EGGS', 'FISH', 'WINE', 'PASTA', 'PASTA']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,carnation,"['GARNISH', 'GARNISH', 'GARNISH']","['SEASONING', 'FRUIT', 'FERMENTED FOOD']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,castelvetrano olives,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+34,cerignola olives,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+35,chamomile,['SEASONING'],['WINE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,chee hou sauce,['CONDIMENT'],['CONDIMENT'],1.0,1.0,1.0,1.0,1.0,1.0,1.0
+37,pickled cherry pepper,['VEGETABLE'],['VEGETABLE'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+38,chile paste,"['FERMENTED FOOD', 'SEASONING', 'SEASONING']","['SEASONING', 'SEASONING', 'SEASONING']",0.333333333,0.333333333,0.333333333,0.333333333,0.6666666666666666,0.6666666666666666,0.6666666666666666
+39,chile verde sauce,"['SAUCE', 'SAUCE', 'SAUCE']","['SAUCE', 'SEASONING', 'SEASONING']",0.333333333,0.333333333,0.333333333,0.333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+40,chili garlic sauce,"['chile paste', 'SAUCE', 'SAUCE', 'SAUCE']","['SAUCE', 'SAUCE', 'SEASONING', 'SEASONING']",0.25,0.25,0.25,0.25,0.25,0.5,0.3333333333333333
+41,chinese mustard,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+42,chutney,['SPREAD'],['SPREAD'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+43,clary,"['GARNISH', 'GARNISH', 'SEASONING']","['SEASONING', 'ligher bake', 'CHEESE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,cloudberry preserves,"['PROCESSED FRUIT', 'PROCESSED FRUIT']","['PROCESSED FRUIT', 'PROCESSED FRUIT']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+45,cocktail onion,"['FERMENTED FOODs', 'SEASONING']","['ONION', 'ONION']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,corn husks,"['WRAPPER', 'WRAPPER', 'WRAPPER']","['VEGETABLE', 'white VEGETABLE', 'VEGETABLEmeal']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,corn tortilla,"['FLATBREAD', 'VEGETABLE chips']","['FLATBREAD', 'FLATBREAD chips']",0.0,0.0,0.0,0.0,0.5,0.5,0.5
+48,cornichon,"['FERMENTED FOOD', 'FERMENTED FOOD']","['VEGETABLEmeal', 'VEGETABLE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,crystallized ginger,"['GARNISH', 'nuts']","['GARNISH', 'COOKIE']",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+50,dark soy sauce,"['FERMENTED FOOD', 'FERMENTED FOOD']","['FERMENTED FOOD', 'FERMENTED FOOD']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+51,dianthus,['GARNISH'],['PASTA'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,dijon mustard,"['CONDIMENT', 'CONDIMENT', 'CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT', 'CONDIMENT', 'CONDIMENT']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+53,dill pickles,['VEGETABLEichon'],['FERMENTED FOOD'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,dumpling wrappers,"['WRAPPER', 'WRAPPER', 'WRAPPER']","['WRAPPER', 'WRAPPER', 'WRAPPER']",0.333333333,0.333333333,0.333333333,0.333333333,1.0,1.0,1.0
+55,dwen jang,['SEASONING'],['VEGETABLE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,egg roll wrappers,"['WRAPPER', 'WRAPPER', 'WRAPPER']","['egg', 'WRAPPER', 'BINDER']",0.0,0.0,0.0,0.0,0.3333333333333333,0.5,0.4
+57,empanada wrappers,"['WRAPPER', 'WRAPPER']","['WRAPPER', 'WRAPPER']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+58,enchilada sauce,"['SAUCE', 'SAUCE', 'SAUCE']","['SAUCE', 'SAUCE', 'SAUCE']",0.333333333,0.333333333,0.333333333,0.333333333,1.0,1.0,1.0
+59,english primroses,"['GARNISH', 'GARNISH']","['GF DISH', 'SEASONING']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,fig leaf,"['WRAPPER', 'WRAPPER', 'WRAPPER']","['SEASONING', 'SEASONING', 'FRUIT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,fig preserves,['SPREAD'],['FRUIT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,fish sauce,"['FERMENTED FOOD', 'FERMENTED FOOD', 'SEASONING']","['SAUCE', 'STOCK', 'SAUCE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,flour tortilla,"['VEGETABLE FLATBREAD', 'FLATBREAD']","['FLATBREAD', 'VEGETABLE FLATBREAD']",0.5,0.5,0.5,0.5,0.0,0.0,0.0
+64,gaeta olives,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+65,gherkin,['VEGETABLEichon'],['FERMENTED FOOD'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,giardiniera,"['FERMENTED FOOD', 'sweet VEGETABLE']","['PASTA', 'GF DISH']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,ginger jam,['GARNISH'],['COOKIE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,glace cherries,"['dried cherry', 'dried cranberries']","['sweet cherry', 'SEASONING']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,gooseberry preserves,"['PROCESSED FRUIT', 'PROCESSED FRUIT', 'PROCESSED FRUIT']","['FRUIT', 'cape FRUIT', 'PROCESSED FRUIT']",0.0,0.0,0.0,0.0,0.3333333333333333,0.5,0.4
+70,grape jelly,"['PROCESSED FRUIT', 'PROCESSED FRUIT']","['FRUIT', 'JUICE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,grape leaves,"['VEGETABLE', 'FRUIT', 'VEGETABLE', 'VEGETABLE', 'VEGETABLE']","['FRUIT', 'autumn royal FRUIT', 'TOMATO', 'FRUIT', 'crimson seedless FRUIT']",0.0,0.0,0.0,0.0,0.2,0.2,0.20000000000000004
+72,greek green olives,['nafplion CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73,green olives,"['CONDIMENT', 'SEASONING', 'FERMENTED FOOD']","['greek CONDIMENT', 'nafplion CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,guacamole,"['FRUIT', 'SPREAD']","['SEASONING', 'FRUIT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,gyoza wrappers,"['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER']","['WRAPPER', 'WRAPPER', 'WRAPPER', 'PASTAtte']",0.25,0.25,0.25,0.25,0.75,1.0,0.8571428571428571
+76,harissa,"['chile paste', 'SAUCE']","['FERMENTED FOOD', 'NOODLE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,hoisin sauce,"['CONDIMENT', 'SPREAD', 'sweet SAUCE']","['CONDIMENT', 'SAUCE', 'SAUCE']",0.333333333,0.333333333,0.333333333,0.333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+78,hallandaise sauce,['SAUCE'],['SAUCE'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+79,honey mustard,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+80,prepared horseradish,"['CONDIMENT', 'CONDIMENT', 'CONDIMENT root']","['RADISH', 'DELI MEAT', 'CHEESE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,hot chili sauce,"['SAUCE', 'SAUCE']","['SAUCE', 'SAUCE']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+82,hot mustard,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+83,hot pepper sauce,"['SAUCE', 'SEASONING', 'SEASONING']","['SAUCE', 'SAUCE', 'SAUCE']",0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333
+84,hummus,"['SPREAD', 'peaSPREAD']","['DELI MEAT', 'SEASONING']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,impatiens,['candied flowers'],['BASE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,japanese soy sauce,['FERMENTED FOOD'],['FERMENTED FOOD'],1.0,1.0,1.0,1.0,1.0,1.0,1.0
+87,johnny jump-up,"['GARNISH', 'SEASONING']","['jack cheeese', 'CHEESE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,kacang saus,['FERMENTED FOOD'],['SAUCE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,kalamata olives,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+90,kecap manis,"[""FERMENTED FOOD""]",['FRUIT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,ketchup,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+92,kim chee,['FERMENTED FOOD'],['SAUSAGE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,korean barbecue sauce,"['asian SAUCE', 'SAUCE']","['asian SAUCE', 'SAUCE']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+94,kreplach wrappers,"['WRAPPER', 'WRAPPER']","['WRAPPER', 'WRAPPER']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+95,kumquats in syrup,['SPREAD'],['kumquat liqueur'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,kura olives,['nafplion CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+97,lavender,['LIQUER'],['SEASONING'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,lemon blossoms,['GARNISH'],['SEASONING'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,lemon marmalade,['SPREAD'],['lemon liqueur'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,lighter bake,['FRUIT'],['COOKINGBAKING INGREDIENT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,ligurian olives,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+102,lilac,['SEASONING'],['GF DISH'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,loganberry jam,"['PROCESSED FRUIT', 'PROCESSED FRUIT', 'PROCESSED FRUIT']","['FRUIT', 'PROCESSED FRUIT', 'JUICE']",0.0,0.0,0.0,0.0,0.3333333333333333,0.5,0.4
+104,lotus leaves,"['WRAPPER', 'WRAPPER']","['GARNISH', 'SEASONING']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,lucque olives,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+106,lumpia wrapper,"['VEGETABLE', 'WRAPPER', 'WRAPPER', 'WRAPPER']","['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER']",0.0,0.0,0.0,0.0,0.75,0.75,0.75
+107,maggi's seasoning sauce,"['FERMENTED FOOD', 'FERMENTED FOOD']","['SAUCE', 'SAUCE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,maguey leaves,"['WRAPPER', 'FRUIT leaves']","['SEASONING', 'SEASONING']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,manzanilla olives,['SEASONING'],['CONDIMENT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,maraschino cherry,['SEASONING'],['SEASONING'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+111,marigold blossom,['GARNISH'],['GARNISH'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+112,mint-flavored apple jelly,['SAUCE'],['FRUIT SAUCE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,mission olives,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+114,moroccan green olives,['CONDIMENT'],['CONDIMENT'],1.0,1.0,1.0,1.0,1.0,1.0,1.0
+115,muscadine jelly,"['PROCESSED FRUIT', 'PROCESSED FRUIT']","['WINE', 'PROCESSED FRUIT']",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+116,mushroom soy sauce,['FERMENTED FOOD'],['FERMENTED FOOD'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+117,prepared mustard,"['CONDIMENT', 'CONDIMENT', 'CONDIMENT', 'CONDIMENT']","['RADISH', 'CONDIMENT', 'CONDIMENT', 'CONDIMENT']",0.5,0.5,0.5,0.5,0.75,0.75,0.75
+118,nafplion green olives,['greek CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,nam prik,['SAUCE'],['CHEESE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,nam prik pao,"['chile paste', 'SEASONING']","['FERMENTED FOOD', 'havarti']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,nasturtium,"['GARNISH', 'GARNISH']","['SWEETENER', 'FRUIT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+122,nicoise olives,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+123,olive butter,"['SPREAD', 'BUTTER']","['almond BUTTER', 'OIL']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+124,olives,"['FERMENTED FOOD', 'ONION flakes', 'TOMATOes', 'SEASONINGs']","['CONDIMENT', 'CONDIMENT', 'CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,orange blossoms,['GARNISH'],['GARNISH'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+126,orange marmalade,['PROCESSED FRUIT'],['NON-BEVERAGE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+127,oyster sauce,['FERMENTED FOOD'],['SHELLFISH'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,pansy,"['GARNISH', 'SEASONING', 'GARNISH']","['BREADCRUMB', 'BREAD', 'PORK']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+129,papaya leaves,['WRAPPER'],['SEEDS'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,parchment paper,"['WRAPPER', 'WRAPPER', 'WRAPPER', 'OIL', 'WRAPPER']","['WRAPPER', 'KITCHEN AID', 'WRAPPER', 'WRAPPER', 'CHEESE']",0.4,0.4,0.4,0.4,0.6,0.75,0.6666666666666665
+131,peach blossoms,['GARNISH'],['FRUIT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+132,peach jam,['PROCESSED FRUIT'],['FRUIT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+133,pepperoncini,['FERMENTED FOOD'],['SAUSAGE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+134,piccalilli relish,['FERMENTED FOOD'],['CAKE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,picholine olives,"['CONDIMENT', 'CONDIMENT', 'CONDIMENT', 'SEASONING', 'FERMENTED FOOD']","['CONDIMENT', 'CONDIMENT', 'CONDIMENT', 'CONDIMENT', 'CONDIMENT']",0.4,0.4,0.4,0.4,1.0,0.7142857142857143,0.8333333333333333
+136,pickle relish,"['FERMENTED FOOD', 'FERMENTED FOOD']","['FERMENTED FOOD', 'FERMENTED FOODs']",0.0,0.0,0.0,0.0,0.5,0.5,0.5
+137,pickled asparagus,"['FERMENTED FOOD', 'FERMENTED FOOD']","['VEGETABLE', 'white VEGETABLE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138,pickled beets,['FERMENTED FOOD'],['FERMENTED FOODs'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,pickled carrots,['FERMENTED FOOD'],['carrot'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+140,pickled cauliflower,"['FERMENTED FOOD', 'FERMENTED FOODs']","['VEGETABLE', 'FERMENTED FOODs']",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+141,pickled eggs,"['FERMENTED FOOD', 'FERMENTED FOOD']","['pickled egg', 'FERMENTED FOODs']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+142,pickled mustard cabbage,['FERMENTED FOOD'],['VEGETABLE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+143,pickled nasturtium buds,['SEASONINGs'],['FERMENTED FOOD'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+144,pickled okra,"['FERMENTED FOOD', 'FERMENTED FOOD']","['FERMENTED FOODs', 'pickled ginger']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+145,pickled onions,"['FERMENTED FOOD', 'SEASONING']","['ONION', 'ONION']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+146,pickled string beans,['VEGETABLE'],['BEANS'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+147,pil pil sauce,"['SAUCE', 'SAUCE']","['SAUCE', 'SWEETENER']",0.0,0.0,0.0,0.0,0.5,0.5,0.5
+148,piri piri sauce,"['SAUCE', 'SAUCE']","['SAUCE', 'DELI MEAT']",0.0,0.0,0.0,0.0,0.5,0.5,0.5
+149,plastic wrap,"['WRAPPER', 'WRAPPER', 'WRAPPER']","['WRAPPER', 'WRAPPER', 'WRAPPER']",0.333333333,0.333333333,0.333333333,0.333333333,1.0,1.0,1.0
+150,plum blossoms,['GARNISH'],['GARNISH'],1.0,1.0,1.0,1.0,1.0,1.0,1.0
+151,plum puree,"['FRUIT SAUCE', 'SUBSTITUTE']","['plum', 'CONDIMENT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+152,plum sauce,['CONDIMENT'],['PROCESSED FRUIT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+153,potsticker wrappers,"['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER']","['WRAPPER', 'PASTAtte', 'WRAPPER', 'WRAPPER', 'tepin dried']",0.6,0.6,0.6,0.6,0.6,1.0,0.7499999999999999
+154,pumpkin puree,['STARCHY VEGETABLE'],['SEASONING'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+155,pureed prunes,"['SPREAD', 'SUBSTITUTE']","['PROCESSED FRUIT', 'prune']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,rapberry preserves,"['PROCESSED FRUIT', 'PROCESSED FRUIT']","['PROCESSED FRUIT', 'PROCESSED FRUIT']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+157,ravioli wrappers,"['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER']","['ravioli', 'tagliatelle', 'PASTA', 'PASTA']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+158,recaito,"['SAUCE', 'SAUCE']","['havarti', 'SEASONING']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,red bean curd,"['FERMENTED FOOD', 'SEASONING']","['red bean', 'FERMENTED FOOD']",0.5,0.5,0.5,0.5,0.0,0.0,0.0
+160,red chile sauce,['SAUCE'],['SAUCE'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+161,red currant jelly,['PROCESSED FRUIT'],['FRUIT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+162,red curry paste,['FERMENTED FOOD'],['SEASONING'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,red pepper sauce,['TOMATO'],['SAUCE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,rice paper,"['WRAPPER', 'BAKED PRODUCTS']","['GRAIN', 'medium-grain GRAIN']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,rocoto sauce,"['SAUCE', 'SAUCE']","['SAUCE', 'TOMATO']",0.0,0.0,0.0,0.0,0.5,0.5,0.5
+166,rose petals,['SEASONING'],['SEASONING'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+167,rosella,['cranberry'],['SEASONING'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,royal olives,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+169,salsa,"['SAUCE', 'SAUCE']","['mora chili', 'SEASONING']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170,salsa verde,"['SAUCE', 'SAUCE', 'SAUCE', 'BASE']","['SAUCE', 'VEGETABLE', 'VEGETABLE', 'SEASONING']",0.25,0.25,0.25,0.25,0.25,0.25,0.25
+171,sambal bajak,"['SAUCE', 'SAUCE']","['LIQUER', 'CONDIMENT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+172,sambal manis,"['CONDIMENT', 'FERMENTED FOOD']","['FERMENTED FOOD', 'CONDIMENT']",0.5,0.5,0.5,0.5,0.0,0.0,0.0
+173,sambal oelek,"['chile paste', 'FERMENTED FOOD', 'SAUCE', 'SEASONING', 'chili powder']","['WINE', 'PROCESSED MEAT', 'FRUIT', 'FRUIT', 'CHEESE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+174,sambal terasi,['FERMENTED FOOD'],['CHEESE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,sate sauce,['SAUCE'],['SAUCE'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+176,sauerkraut,['FERMENTED FOOD'],['CHEESE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+177,sausage casings,['WRAPPER'],['SAUSAGE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,sevillano olive,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+179,shrimp paste,['SEASONING'],['FISH'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,sicillian olive,['CONDIMENT'],['CONDIMENT'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+181,silken tofu,"['PROTEIN CONDIMENT', 'DAIRY CONDIMENT', 'CONDIMENT', 'DAIRY CONDIMENT']","['PROTEIN CONDIMENT', 'PROTEIN CONDIMENT', 'regular PROTEIN CONDIMENT', 'extra-firm PROTEIN CONDIMENT']",0.25,0.25,0.25,0.25,0.25,0.25,0.25
+182,snapdragon,"['GARNISH', 'GARNISH']","['FISH', 'WINE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,soy sauce,"['FERMENTED FOOD', ""FERMENTED FOOD"", 'FERMENTED FOOD', 'worcestershire sauce']","['FERMENTED FOOD', 'FERMENTED FOOD', 'FERMENTED FOOD', 'soy CONDIMENT']",0.0,0.0,0.0,0.0,0.75,0.75,0.75
+184,squash blossoms,['FUNGUS'],['CONDIMENT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+185,sriracha,['CONDIMENT'],['SAUCE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+186,strawberry preserves,"['PROCESSED FRUIT', 'PROCESSED FRUIT']","['FRUIT', 'cr√®me de fraise']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,sui kow wrappers,"['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER']","['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER', 'PASTAtte']",0.6,0.6,0.6,0.6,0.8,1.0,0.888888888888889
+188,sweet and sour sauce,['CONDIMENT'],['sweet SAUCE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+189,sweet bean sauce,['CONDIMENT'],['SAUCE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+190,sweet cherry pepper,"['VEGETABLE', 'FERMENTED FOOD']","['VEGETABLE', 'FERMENTED FOOD']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+191,sweet gherkin,['VEGETABLEichon'],['FERMENTED FOOD'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+192,tabasco sauce,"['SAUCE', 'SAUCE']","['SAUCE', 'SAUCE']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+193,taco sauce,['SAUCE'],['CONDIMENT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+194,tamari,['FERMENTED FOOD'],['FERMENTED FOODnd'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+195,tamarind paste,"['JUICE', 'JUICE']","['FERMENTED FOODnd', 'FERMENTED FOODllo']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+196,tapenade,['BUTTER'],['CHEESE'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+197,thai sweet soy sauce,"[""FERMENTED FOOD"", 'FERMENTED FOOD', 'FERMENTED FOOD']","['FERMENTED FOOD', 'FERMENTED FOOD', 'asian SAUCE']",0.333333333,0.333333333,0.333333333,0.333333333,0.6666666666666666,1.0,0.8
+198,ti leaves,"['WRAPPER', 'WRAPPER', 'WRAPPER']","['SEASONING', 'DESSERT', 'CHEESE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,tomato paste,"['TOMATO', 'TOMATO', 'TOMATO', 'CONDIMENT']","['TOMATO', 'TOMATO', 'currant TOMATO', 'TOMATO']",0.5,0.5,0.5,0.5,0.75,0.75,0.75
+200,tomato puree,['TOMATO'],['currant TOMATO'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+201,tomato sauce,['TOMATO'],['TOMATO'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+202,canned tomatoes,['TOMATO'],['TOMATO'],0.0,0.0,0.0,0.0,1.0,1.0,1.0
+203,umeboshi plums,['SEASONING'],['PROCESSED FRUIT'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,umeboshi puree,"['sea SEASONING', 'miso', 'FERMENTED FOOD']","['LIQUER', 'GRAIN', 'SEASONING']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+205,violet,"['GARNISH', 'GARNISH', 'GARNISH']","['cr√®me de SEASONINGte', 'SEASONING', 'GF DISH']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+206,wasabi,['CONDIMENT'],['CONDIMENT root'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+207,wasabi powder,"['RADISH', 'RADISH']","['CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+208,wax paper,"['WRAPPER', 'WRAPPER', 'WRAPPER']","['WRAPPER', 'KITCHEN AID', 'WRAPPER']",0.666666667,0.666666667,0.666666667,0.666666667,0.6666666666666666,1.0,0.8
+209,whole-grain mustard,"['CONDIMENT', 'CONDIMENT']","['CONDIMENT', 'CONDIMENT']",0.0,0.0,0.0,0.0,1.0,1.0,1.0
+210,wonton wrappers,"['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER']","['WRAPPER', 'WRAPPER', 'WRAPPER', 'WRAPPER']",0.5,0.5,0.5,0.5,1.0,1.0,1.0
+211,worcestershire sauce,"['FERMENTED FOOD', 'FERMENTED FOOD']","['SAUCE', 'SAUCE']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+212,xo sauce,['CONDIMENT'],['TOMATO'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+213,yellow curry paste,['FERMENTED FOOD'],['SEASONING'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
