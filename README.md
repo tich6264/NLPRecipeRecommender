@@ -12,5 +12,7 @@ Recommend recipes using NLP techniques including word embeddings and NER.
             * configs
             * data
 * WordEmbeddings
-    * Training
+    * Data prep
+    * Model comparison
+    * Griund truth metrics
 
